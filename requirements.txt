@@ -7,3 +7,5 @@ html5lib
 beautifulsoup4
 openpyxl
 matplotlib
+bs4
+beautifulsoup4
