@@ -9,3 +9,4 @@ openpyxl
 matplotlib
 bs4
 beautifulsoup4
+Flask
